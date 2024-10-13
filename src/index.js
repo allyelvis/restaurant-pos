@@ -1,0 +1,1 @@
+// restaurant-pos entry point
